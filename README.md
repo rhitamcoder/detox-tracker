@@ -54,7 +54,7 @@ python3 tracker.py
 ## 🧠 Why I Built This
 This tool was created to fight the "infinite scroll" addiction that affects out dopamine levels and physical health. By forcing a manual clock check-in every day, we build mindfulness and take back control of our time.
 
-"Your Attention is your most valuable asset. Don't trade your long-term goals for a 15-second distraction."
+"Your Attention is your most valuable asset. Don't trade your long-term goals for a 30-second distraction."
 
 ## 📈 Why use this?
 By using a manual tracker, you are:
