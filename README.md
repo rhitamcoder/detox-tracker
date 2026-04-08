@@ -19,6 +19,8 @@ Includes specific reminders to stay away from provocative content and preserve y
 Open your terminal and clone this folder:
 ```
 git clone https://github.com/rhitamcoder/detox-tracker.git
+```
+```
 cd detox-tracker
 ```
 *(Alternatively, click the green **Code** button on Github and select **Download ZIP**.)*
