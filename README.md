@@ -1,11 +1,11 @@
-🛡️ Digital Detox Tracker
-A lightweight, Python-based CLI tool designed to help you break the habit of scrolling through Instagram Reels and YouTube Shorts. This tool focuses on reclaiming your mental focus and physical health through daily discipline and motivational reinforcement.
+# 🛡️ Digital Detox Tracker
+A lightweight, Python-based CLI tool designed to help you break the habit of scrolling through Instagram Reels and Youtube Shorts. This tool focuses on reclaiming your mental focus and physical health through daily discipline and motivational reinforcement.
 
-🌟 Features
-Streak Tracking: Automatically calculates your daily progress.
+## How to Install
+To use this on any Linux PC, run:
+1. `git clone https://github.com/YOUR_USERNAME/detox-tracker.git`
+2. `cd detox-tracker`
+3. `pip install .`
 
-No-Install Design: Runs directly via Python without needing complex packages or pip.
-
-Randomized Motivation: Provides a different encouraging sentence every day to keep you inspired.
-
-Health-Focused: Includes specific reminders to stay away from provocative content and preserve your physical energy.
+## How to Use
+Just type `detox` in your terminal!
