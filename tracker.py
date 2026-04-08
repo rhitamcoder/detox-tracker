@@ -4,7 +4,7 @@ import os
 import random
 from datetime import datetime, timedelta
 
-DATA_FILE = "tracker_data.json"
+DATA_FILE = ".tracker_data.json"
 
 #A list of motivational sentences
 MOTIVATION = [
