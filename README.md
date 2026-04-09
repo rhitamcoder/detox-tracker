@@ -30,6 +30,12 @@ To run the tracker by typing 'detox' from a terminal:
 ```
 sudo ln -s $(pwd)/tracker.py /usr/local/bin/detox && chmod +x tracker.py
 ```
+### 3. Optional Step
+To hide the folder, open a new terminal:
+```
+mv detox-tracker .detox-tracker
+```
+
 ### 🎮 How to Use
 Simply open your terminal and type:
 ```
