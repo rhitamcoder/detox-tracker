@@ -20,20 +20,21 @@ Open your terminal and clone this folder:
 ```
 git clone https://github.com/rhitamcoder/detox-tracker.git
 ```
-```
-cd detox-tracker
-```
 *(Alternatively, click the green **Code** button on Github and select **Download ZIP**.)*
+
+To hide the folder, open a new terminal:
+```
+mv detox-tracker .detox-tracker
+```
+
+```
+cd .detox-tracker
+```
 
 ### 2. Make it a Global Command
 To run the tracker by simply typing 'detox' from anywhere in your terminal:
 ```
 sudo ln -s $(pwd)/tracker.py /usr/local/bin/detox && chmod +x tracker.py
-```
-### 3. Optional Step
-To hide the folder, open a new terminal:
-```
-mv detox-tracker .detox-tracker
 ```
 
 ### 🎮 How to Use
