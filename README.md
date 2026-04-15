@@ -26,7 +26,7 @@ cd detox-tracker
 *(Alternatively, click the green **Code** button on Github and select **Download ZIP**.)*
 
 ### 2. Make it a Global Command
-To run the tracker by typing 'detox' from a terminal:
+To run the tracker by simply typing 'detox' from anywhere in your terminal:
 ```
 sudo ln -s $(pwd)/tracker.py /usr/local/bin/detox && chmod +x tracker.py
 ```
