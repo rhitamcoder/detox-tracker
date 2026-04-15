@@ -27,6 +27,7 @@ To hide the folder, open a new terminal:
 mv detox-tracker .detox-tracker
 ```
 
+Then:
 ```
 cd .detox-tracker
 ```
