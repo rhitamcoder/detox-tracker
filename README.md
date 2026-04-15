@@ -22,7 +22,7 @@ git clone https://github.com/rhitamcoder/detox-tracker.git
 ```
 *(Alternatively, click the green **Code** button on Github and select **Download ZIP**.)*
 
-To hide the folder, open a new terminal:
+To hide the folder:
 ```
 mv detox-tracker .detox-tracker
 ```
