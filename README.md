@@ -1,4 +1,4 @@
-# 🛡️ Digital Detox Tracker
+# 🛡️ Reclaim
 A lightweight, Python-based CLI tool designed to help you break the habit of scrolling through Instagram Reels and Youtube Shorts. This tool focuses on reclaiming your mental focus and physical health through daily discipline and motivational reinforcement.
 
 ## 🌟 Features
@@ -18,30 +18,30 @@ Includes specific reminders to stay away from provocative content and preserve y
 ### 1. Download the Tool
 Open your terminal and clone this folder:
 ```
-git clone https://github.com/rhitamcoder/detox-tracker.git
+git clone https://github.com/rhitamcoder/reclaim.git
 ```
 *(Alternatively, click the green **Code** button on Github and select **Download ZIP**.)*
 
 To hide the folder:
 ```
-mv detox-tracker .detox-tracker
+mv reclaim .reclaim
 ```
 
 Then:
 ```
-cd .detox-tracker
+cd .reclaim
 ```
 
 ### 2. Make it a Global Command
-To run the tracker by simply typing 'detox' from anywhere in your terminal:
+To run the tracker by simply typing 'reclaim' from anywhere in your terminal:
 ```
-sudo ln -s $(pwd)/tracker.py /usr/local/bin/detox && chmod +x tracker.py
+sudo ln -s $(pwd)/tracker.py /usr/local/bin/reclaim && chmod +x tracker.py
 ```
 
 ### 🎮 How to Use
 Simply open your terminal and type:
 ```
-detox
+reclaim
 ```
 *If you didn't do the "Global Command" above, you can run it manually inside the folder using:*
 ```
